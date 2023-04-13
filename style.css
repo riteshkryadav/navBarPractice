@@ -1,0 +1,14 @@
+.blur{
+    display: block !important;
+    left: 0%;
+    backdrop-filter: blur(10px);
+    top: 3rem;
+    width: 100%;
+    height: 100%; 
+    position: fixed;
+    flex-direction: column;
+}
+
+.c1 img{
+    max-height: 60vh;
+}
